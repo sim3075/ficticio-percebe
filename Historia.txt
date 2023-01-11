@@ -1,3 +1,8 @@
 Esta es una corta historia en la que voy a contar como me toco repertir todo el proyecto
 debido a que tuve un pequeño inconveniente con el repositorio sin embargo es una buena
-practica para repasar todo lo que vi en el curso de git y github
+practica para repasar todo lo que vi en el curso de git y github.
+
+Voy a contar algo acerca de mi para rellenar esta parte del texto. Soy
+Simón Miranda tengo 19 años soy estudiante de ingenieria de sistemas en la 
+udem y estoy aprendiendo a usar git y github de una forma más profesional durante mis 
+vacaciones antes de entrar a la u el 30 de enero
