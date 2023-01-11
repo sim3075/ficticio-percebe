@@ -1,0 +1,3 @@
+Esta es una corta historia en la que voy a contar como me toco repertir todo el proyecto
+debido a que tuve un pequeño inconveniente con el repositorio sin embargo es una buena
+practica para repasar todo lo que vi en el curso de git y github
