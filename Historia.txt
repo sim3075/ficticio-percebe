@@ -5,4 +5,4 @@ practica para repasar todo lo que vi en el curso de git y github.
 Voy a contar algo acerca de mi para rellenar esta parte del texto. Soy
 Simón Miranda tengo 19 años soy estudiante de ingenieria de sistemas en la 
 udem y estoy aprendiendo a usar git y github de una forma más profesional durante mis 
-vacaciones antes de entrar a la u el 30 de enero
+vacaciones antes de entrar a la u el 30 de enero. ademas de eso voy a conocer a muchas mas personas y hacer miles de amigos:).
